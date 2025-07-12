@@ -16,3 +16,5 @@ Built as part of my **Cyber Security Internship at Prodigy InfoTech**, this tool
 - Python
 - Regex (`re` library)
 
+![Screenshot](./image.png)
+
